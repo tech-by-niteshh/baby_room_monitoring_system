@@ -62,4 +62,4 @@ Data structures map directly into individual data blocks inside your cloud insta
 
 1. Clone this repository structure:
 ```bash
-   git clone [https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME.git)
+   git clone [https://github.com/tech-by-niteshh/baby_room_monitoring_system.git](https://github.com/tech-by-niteshh/baby_room_monitoring_system.git)

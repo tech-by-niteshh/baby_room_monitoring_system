@@ -7,8 +7,8 @@ const char* WIFI_NAME = "Wokwi-GUEST";
 const char* WIFI_PASSWORD = "";
 
 
-unsigned long myChannelNumber = 3402261; 
-const char* myWriteAPIKey = "P5SQG3TH8QH1H7Q9";     
+unsigned long myChannelNumber = 3XXXX61; 
+const char* myWriteAPIKey = "P5SQXXXXXXH1H7Q9";     
 
 
 #define DHTPIN 15

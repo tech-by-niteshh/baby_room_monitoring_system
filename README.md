@@ -14,7 +14,7 @@ An IoT-based smart home automation solution engineered to continuously track, as
 ## 📺 Project Media Demonstrations
 
 ### System Architecture Snapshot
-<!-- Upload your project schematic or screenshot to a folder named 'assets' in your repo -->
+
 ![Hardware Connections Circuit Diagram](assets/simulation-screenshot.png)
 
 ### Live Execution Demonstration
@@ -62,4 +62,4 @@ Data structures map directly into individual data blocks inside your cloud insta
 
 1. Clone this repository structure:
 ```bash
-   git clone [https://github.com/tech-by-niteshh/baby_room_monitoring_system.git](https://github.com/tech-by-niteshh/baby_room_monitoring_system.git)
+   git clone https://github.com/tech-by-niteshh/baby_room_monitoring_system.git

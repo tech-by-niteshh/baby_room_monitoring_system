@@ -7,7 +7,7 @@ An IoT-based smart home automation solution engineered to continuously track, as
 ## 🔗 Live Project Links
 
 *   **Wokwi Interactive Simulation:** [Launch Simulation Platform](https://wokwi.com/projects/466062129388177409)
-*   **ThingSpeak Cloud Analytics:** [View Public Live Channel Dashboard](https://thingspeak.mathworks.com/channels/3402261)
+*   **ThingSpeak Cloud Analytics:** [View Public Live Channel Dashboard](https://thingspeak.com/channels/3402261)
 
 ---
 

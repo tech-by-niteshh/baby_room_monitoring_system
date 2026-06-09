@@ -1,3 +1,9 @@
+
+
+https://github.com/user-attachments/assets/84b71f80-863e-4e1d-a8cc-757b5dd7f005
+
+
+
 # Smart Baby Room Monitor (IoT-Based Environmental Safety System)
 
 An IoT-based smart home automation solution engineered to continuously track, assess, and report nursery environments. This project monitors ambient temperature and relative humidity using an ESP32 microcontroller and a DHT sensor, generating instant localized sensory alarms while feeding a continuous telemetry log stream to the cloud.
@@ -17,11 +23,11 @@ An IoT-based smart home automation solution engineered to continuously track, as
 
 ![Hardware Connections Circuit Diagram](assets/simulation-screenshot.png)
 
-## 📺 Project Media Demonstration
+# system working explaination
 
-<video src="https://raw.githubusercontent.com/tech-by-niteshh/baby_room_monitoring_system/main/assets/baby_room_monitoring_system%20(1).mp4" width="100%" controls>
-  Your browser does not support the video tag.
-</video>
+![Video](https://github.com/user-attachments/assets/e447bf89-c575-4293-bf47-2e7a09ed405c)
+
+
 
 ---
 

@@ -1,7 +1,5 @@
 
 
-https://github.com/user-attachments/assets/84b71f80-863e-4e1d-a8cc-757b5dd7f005
-
 
 
 # Smart Baby Room Monitor (IoT-Based Environmental Safety System)
@@ -25,7 +23,7 @@ An IoT-based smart home automation solution engineered to continuously track, as
 
 # system working explaination
 
-![Video](https://github.com/user-attachments/assets/e447bf89-c575-4293-bf47-2e7a09ed405c)
+https://github.com/user-attachments/assets/e447bf89-c575-4293-bf47-2e7a09ed405c
 
 
 

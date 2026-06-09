@@ -17,9 +17,11 @@ An IoT-based smart home automation solution engineered to continuously track, as
 
 ![Hardware Connections Circuit Diagram](assets/simulation-screenshot.png)
 
-### Live Execution Demonstration
-<!-- Drag and drop your mp4 video into your GitHub issue editor to generate a video link or reference it locally -->
-https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/assets/demo-video.mp4
+## 📺 Project Media Demonstration
+
+<video src="https://raw.githubusercontent.com/tech-by-niteshh/baby_room_monitoring_system/main/assets/baby_room_monitoring_system%20(1).mp4" width="100%" controls>
+  Your browser does not support the video tag.
+</video>
 
 ---
 
